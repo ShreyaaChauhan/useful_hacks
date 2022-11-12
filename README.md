@@ -1,4 +1,4 @@
-# useful_hacks
+# Useful Hacks
 
 ## Creation of automatic requirements.txt file
 ```
