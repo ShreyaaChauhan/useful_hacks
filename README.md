@@ -11,3 +11,9 @@ pipreqs /path/to/project
 
 ## Remove current remote origin
 `git remote rm origin`
+
+## Get the path to parents folder
+```python
+import os
+parent_folder_path = os.path.abspath(os.path.dirname(__file__))
+```
