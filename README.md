@@ -22,3 +22,5 @@ parent_folder_path = os.path.abspath(os.path.dirname(__file__))
 import shutil
 shutil.unpack_archive('/source_folder','/destination folder')
 ```
+## Run notebooks from github colab to colab notebooks
+Change 'github.com' to 'githubtocolab.com'
