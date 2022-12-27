@@ -18,6 +18,7 @@ import os
 parent_folder_path = os.path.abspath(os.path.dirname(__file__))
 ```
 ## Unzip content in python 
+```
 import shutil
 shutil.unpack_archive('/source_folder','/destination folder')
 ```
