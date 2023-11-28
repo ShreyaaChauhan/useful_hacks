@@ -24,3 +24,6 @@ shutil.unpack_archive('/source_folder','/destination folder')
 ```
 ## Run notebooks from github colab to colab notebooks
 Change 'github.com' to 'githubtocolab.com'
+
+## Find processor architecture of your Mac.
+``` uname -p ```
